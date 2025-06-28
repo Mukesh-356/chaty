@@ -28,7 +28,7 @@
 
 import React from "react";
 import { useNavigate } from "react-router-dom";
-import "../Styles/Homewwwwwww.css";
+import "../Styles/Home.css";
 
 const HomePage = () => {
   const navigate = useNavigate();
